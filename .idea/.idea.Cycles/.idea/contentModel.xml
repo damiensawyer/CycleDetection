@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\temp\code\CycleDetection" t="IncludeFlat">
+      <e p="Cycles" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Cycles.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="Cycles.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="StronglyConnectedComponent.cs" t="Include" />
+        <e p="StronglyConnectedComponentFinder.cs" t="Include" />
+        <e p="StronglyConnectedComponentList.cs" t="Include" />
+        <e p="Vertex.cs" t="Include" />
+      </e>
+      <e p="Cycles.sln" t="IncludeFlat" />
+      <e p="Cycles.Test" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Cycles.Test.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="Cycles.Test.AssemblyInfo.cs" t="Include" />
+              <e p="Cycles.Test.Program.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="StronglyConnectedComponentTests.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\damie\.nuget\packages\xunit.runner.visualstudio\2.3.1\build\netcoreapp1.0\xunit.runner.reporters.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\damie\.nuget\packages\xunit.runner.visualstudio\2.3.1\build\netcoreapp1.0\xunit.runner.utility.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\damie\.nuget\packages\xunit.runner.visualstudio\2.3.1\build\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
+    <e p="C:\Users\damie\.Rider2018.2\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\damie\.Rider2018.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\damie\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\damie\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_Cycles.1812898872.00" t="ExcludeRecursive" />
+  </component>
+</project>

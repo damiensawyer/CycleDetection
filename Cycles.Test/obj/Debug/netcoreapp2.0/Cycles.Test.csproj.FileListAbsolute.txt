@@ -1,0 +1,16 @@
+C:\temp\code\CycleDetection\Cycles.Test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\temp\code\CycleDetection\Cycles.Test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\temp\code\CycleDetection\Cycles.Test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\temp\code\CycleDetection\Cycles.Test\bin\Debug\netcoreapp2.0\Cycles.Test.deps.json
+C:\temp\code\CycleDetection\Cycles.Test\bin\Debug\netcoreapp2.0\Cycles.Test.runtimeconfig.json
+C:\temp\code\CycleDetection\Cycles.Test\bin\Debug\netcoreapp2.0\Cycles.Test.runtimeconfig.dev.json
+C:\temp\code\CycleDetection\Cycles.Test\bin\Debug\netcoreapp2.0\Cycles.Test.dll
+C:\temp\code\CycleDetection\Cycles.Test\bin\Debug\netcoreapp2.0\Cycles.Test.pdb
+C:\temp\code\CycleDetection\Cycles.Test\obj\Debug\netcoreapp2.0\Cycles.Test.csproj.CoreCompileInputs.cache
+C:\temp\code\CycleDetection\Cycles.Test\obj\Debug\netcoreapp2.0\Cycles.Test.AssemblyInfoInputs.cache
+C:\temp\code\CycleDetection\Cycles.Test\obj\Debug\netcoreapp2.0\Cycles.Test.AssemblyInfo.cs
+C:\temp\code\CycleDetection\Cycles.Test\obj\Debug\netcoreapp2.0\Cycles.Test.dll
+C:\temp\code\CycleDetection\Cycles.Test\obj\Debug\netcoreapp2.0\Cycles.Test.pdb
+C:\temp\code\CycleDetection\Cycles.Test\bin\Debug\netcoreapp2.0\Cycles.dll
+C:\temp\code\CycleDetection\Cycles.Test\bin\Debug\netcoreapp2.0\Cycles.pdb
+C:\temp\code\CycleDetection\Cycles.Test\obj\Debug\netcoreapp2.0\Cycles.Test.csproj.CopyComplete

@@ -1,8 +1,0 @@
-C:\temp\code\CycleDetection\Cycles\bin\Debug\netstandard2.0\Cycles.deps.json
-C:\temp\code\CycleDetection\Cycles\bin\Debug\netstandard2.0\Cycles.dll
-C:\temp\code\CycleDetection\Cycles\bin\Debug\netstandard2.0\Cycles.pdb
-C:\temp\code\CycleDetection\Cycles\obj\Debug\netstandard2.0\Cycles.csproj.CoreCompileInputs.cache
-C:\temp\code\CycleDetection\Cycles\obj\Debug\netstandard2.0\Cycles.AssemblyInfoInputs.cache
-C:\temp\code\CycleDetection\Cycles\obj\Debug\netstandard2.0\Cycles.AssemblyInfo.cs
-C:\temp\code\CycleDetection\Cycles\obj\Debug\netstandard2.0\Cycles.dll
-C:\temp\code\CycleDetection\Cycles\obj\Debug\netstandard2.0\Cycles.pdb

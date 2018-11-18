@@ -12,10 +12,16 @@
             </e>
           </e>
         </e>
-        <e p="StronglyConnectedComponent.cs" t="Include" />
-        <e p="StronglyConnectedComponentFinder.cs" t="Include" />
-        <e p="StronglyConnectedComponentList.cs" t="Include" />
-        <e p="Vertex.cs" t="Include" />
+        <e p="Version1" t="Include">
+          <e p="StronglyConnectedComponent.cs" t="Include" />
+          <e p="StronglyConnectedComponentFinder.cs" t="Include" />
+          <e p="StronglyConnectedComponentList.cs" t="Include" />
+          <e p="Vertex.cs" t="Include" />
+        </e>
+        <e p="Version2" t="Include">
+          <e p="TarjanCycleDetectStack.cs" t="Include" />
+          <e p="Vertex.cs" t="Include" />
+        </e>
       </e>
       <e p="Cycles.sln" t="IncludeFlat" />
       <e p="Cycles.Test" t="IncludeRecursive">
@@ -29,7 +35,12 @@
             </e>
           </e>
         </e>
-        <e p="StronglyConnectedComponentTests.cs" t="Include" />
+        <e p="Version1" t="Include">
+          <e p="StronglyConnectedComponentTests.cs" t="Include" />
+        </e>
+        <e p="Version2" t="Include">
+          <e p="StronglyConnectedComponentTests2.cs" t="Include" />
+        </e>
       </e>
       <e p="packages" t="ExcludeRecursive" />
     </e>
